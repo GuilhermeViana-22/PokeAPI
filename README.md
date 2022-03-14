@@ -1,2 +1,3 @@
 # PokeAPI
--- try to build an API ,for ready information of same pokemons
+-- Create a pokex for ready of same information os pokemons
+
